@@ -1,6 +1,6 @@
 # CENTURI Hackathon For quantitative biology
 
-This is the GitHub repository for the [CENTURI Hackathon For quantitative biology].
+This is the GitHub repository for the __CENTURI Hackathon For quantitative biology__.
 
 If you are seeing this page but are a hackathon member it means that you have not been added to the organisation yet.
 
